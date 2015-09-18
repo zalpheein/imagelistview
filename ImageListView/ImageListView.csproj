@@ -103,6 +103,7 @@
     <Compile Include="QueuedBackgroundWorker.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="QueuedTaskScheduler.cs" />
     <Compile Include="ShellInfoExtractor.cs" />
     <Compile Include="MetadataExtractor.cs" />
     <Compile Include="ImageListViewColorTypeConverter.cs" />
